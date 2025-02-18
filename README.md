@@ -9,6 +9,5 @@ download2 在 download 基础上 修改了重命名的方法, 解决了一个可
 
 
 
-视频教程 
-
+视频教程  [链接](https://www.bilibili.com/video/BV1JhAeehEvH/)
 
