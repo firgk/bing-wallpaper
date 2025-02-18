@@ -3,7 +3,7 @@ import requests
 import re
 
 # Path to the README file
-readme_file_path = 'README-modified.md'
+readme_file_path = 'README_modified.md'
 
 # Function to download images
 def download_image(i, url, file_name):
